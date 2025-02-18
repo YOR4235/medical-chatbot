@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.git
+model.tflearn*
+checkpoint
+model/*
